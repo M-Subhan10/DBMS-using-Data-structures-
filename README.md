@@ -22,7 +22,7 @@ This repository, named "DBMS_FILE_REPOSITORY_SYSTEM_OPEN_HASHING," contains the 
 
 ## About the Repository
 
-This repository contains the code for the DBMS File Repository System - Open Hashing. The code was written by MuhammadAliAhson and is protected by copyright. If you find this project useful or interesting, kindly show your appreciation by starring the repository.
+This repository contains the code for the DBMS File Repository System - Open Hashing. The code was written by Muhammad Subhan and is protected by copyright. If you find this project useful or interesting, kindly show your appreciation by starring the repository.
 
 ## Getting Started
 
